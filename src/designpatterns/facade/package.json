@@ -1,0 +1,8 @@
+{
+  "name": "facade",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  },
+  "description": "外观模式，也叫门面模式"
+}
